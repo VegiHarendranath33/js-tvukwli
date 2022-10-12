@@ -171,3 +171,38 @@
 // console.log(output);
 
 // ====
+
+// completed ones : varaibale declaration,Datatypes,Arrays and Objects Functions 
+// # conditional statements in Javascript
+// if u pay amount then only calls will go ,or like above 90 A grade and below 90 B grade like that 
+
+// conditional 
+// Based on some conditions u want to perform some operations 
+// // there are 3 conditonal operators in Javascript 
+// 1. if   ,  if-else , if-else if-else
+// var  marks  = 85;
+// if more than 2 conditions
+// fail then go for final else 
+
+// Looping concepts:
+// if u want to perform some action multiple times or based on number of conditions
+// then we go for Looping.
+// In Looping we have  // for loop and  // while loop
+// for (statement1; statement2; statement3){
+//     //block of code
+// }
+
+// for (variable_declaration(variable Initialisation),condition, increment/decrement){
+
+// }
+// once the condition fails block of code willnot be executed in while loop 
+
+
+//  All fundamental concepts completed
+
+// 1. Variable Declaration 
+// 2. Data Types 
+// 3. Arrays and  Objects
+// 4. Functions
+// 5. Conditional Statements
+// 6. Looping Concept
