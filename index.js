@@ -206,3 +206,20 @@
 // 4. Functions
 // 5. Conditional Statements
 // 6. Looping Concept
+
+// Es5  features:
+// 1.is Array()
+// 2. map()
+// 3. filter()
+// 4. forEach()
+// 5. every()
+// 6. some()
+// 7. indexOf()
+// 8. lastIndexOf()
+
+// JSON Features
+// stringify()
+
+// Date Features 
+// valueOf()
+
