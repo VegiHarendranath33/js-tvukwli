@@ -25,9 +25,16 @@
 //     console.log('hari');
 // }
 
- var output = 0;
- for (var i =1; i<=10; i++)
- {
-   output = output + i;
+//  var output = 0;
+//  for (var i =1; i<=10; i++)
+//  {
+//    output = output + i;
+// }
+// console.log(output);
+
+var output = 1;
+while (output <=10)
+{
+  output++;
+  console.log(output);
 }
-console.log(output);
